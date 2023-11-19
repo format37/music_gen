@@ -10,7 +10,7 @@ services:
       - ./prompts.txt:/app/prompts.txt
     environment:
       - NVIDIA_VISIBLE_DEVICES=all
-      - DURATION=60
+      - DURATION=300
     deploy:
       resources:
         reservations:
