@@ -1,0 +1,3 @@
+# ctransformers[cuda]==0.2.27
+# streamlit
+pydub
